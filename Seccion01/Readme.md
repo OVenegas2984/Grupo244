@@ -1,2 +1,2 @@
-## SECCIÓN 1 - Inrducción y requerimientos
+## SECCIÓN 1 - Introducción y requerimientos
 Keywords: 'Python'
