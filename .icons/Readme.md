@@ -1,1 +1,1 @@
-Iconos
+Versión de iconografía inicial
